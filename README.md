@@ -1,2 +1,2 @@
-# Starboy
+# BigWiz
 One and only Machala
